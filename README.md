@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi there! I’m Alejandra, a passionate coder and problem-solver<br>with a love for turning ideas into elegant code.<br> <br>🚀 With experience in Data and Sofware Engineering, <br>I’m always exploring new technologies and tackling interesting projects. <br><br>I’m excited to share my journey with you. <br>Let’s connect and create something amazing together!
+👋 Hi there! I’m Alejandra, a passionate coder and problem-solver with a love for turning ideas into elegant code.<br> <br>🚀 With experience in Data and Sofware Engineering, I’m always exploring new technologies and tackling interesting projects. <br><br>I’m excited to share my journey with you. Let’s connect and create something amazing together!
 
 
 ## 🌐 Socials:
