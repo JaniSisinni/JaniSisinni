@@ -17,6 +17,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JaniSisinni&icon=2&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JaniSisinni&label=Profile%20Views&color=10&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
