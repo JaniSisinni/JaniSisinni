@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Alejandra, a passionate coder and problem-solver with a love for turning ideas into elegant code.<br><br>🚀 With experience in Data and Sofware Engineering 🔭, I’m always exploring new technologies and tackling interesting projects.<br><br>🤝 I’m excited to share my journey with you. Let’s connect and create something amazing together!<br>
+👋 Hi there! I’m Alejandra, a passionate Data & Software Engineer 🚀<br><br>🔭 I’m always exploring new technologies and tackling interesting projects<br><br>🤝 I’m excited to share my journey with you. Let’s connect and create something amazing together!<br>
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrasisinni/)
